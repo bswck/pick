@@ -14,7 +14,7 @@ https://github.com/bswck/pick/blob/a2269a78f299fe5cbc4e743422cfcd03cbc5f0f6/asse
 `pick` enables you to manipulate the stream of data and pick lines and characters of interest.
 Lines and characters are counted from `1`. An alternative implementation that counts from `0` will be available as `pick0`.
 
-In the further part of thid document, you will see sections like this:
+In the further part of this document, you will see sections like this:
 > [!Note]
 > **Meaning**: _Explanation..._
 
