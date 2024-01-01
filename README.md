@@ -107,6 +107,8 @@ cat foobar.txt | pick $START_IDX..-1
 > - _Pick lines from 1 to 5 (`-1` in this context means the last line of the output) right-exclusive from the `cat foobar.txt` output._
 
 #### Slice Usage Examples
+[_(Jump to foobar.txt)_](#tutorial)
+
 ```shell
 💲 cat foobar.txt | pick 1..5
 ```
@@ -139,5 +141,7 @@ THE END.
 ```
 
 ## Character Selection
+[_(Jump to foobar.txt)_](#tutorial)
+
 More to come here later.
 
