@@ -7,7 +7,7 @@ A simple line picker CLI tool written in Rust. 🦀
 > Hit the `👁 Watch` button to know when it's ready to be tried out!
 
 # Tutorial
-Let's consider a simple file `foobar.txt` (lines on the left are not part of the file):
+Let's consider a simple file `foobar.txt`:
 
 https://github.com/bswck/pick/blob/a2269a78f299fe5cbc4e743422cfcd03cbc5f0f6/assets/foobar.txt#L1-L5
 
