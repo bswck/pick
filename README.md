@@ -24,7 +24,9 @@ They are there to help you understand what the prompts above these sections are 
 ### Single Line Selection
 [_(Jump to foobar.txt)_](#tutorial)
 
-`💲 cat foobar.txt | pick 1`
+```shell
+💲 cat foobar.txt | pick 1
+```
 > [!Note]
 > **Meaning**: _Pick the first line from the `cat foobar.txt` output._
 
